@@ -8,7 +8,7 @@ end
   
   i=0
 def output_array(array)
-  while counter < array.length
+  while i < array.length
   puts array[i]
   i += 1
 end
