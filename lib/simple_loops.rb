@@ -20,3 +20,4 @@ def return_string_array(array)
   while i < array.length
   new array.push(array[i].to_s)
 end
+end
