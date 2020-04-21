@@ -19,5 +19,5 @@ def return_string_array(array)
   i = 0 
   while i < array.length
   new array.push(array[i].to_s)
-end
+  end
 end
