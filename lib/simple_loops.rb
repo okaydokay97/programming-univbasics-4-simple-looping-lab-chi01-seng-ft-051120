@@ -18,6 +18,6 @@ def return_string_array(array)
   new_array =[]
   i = 0 
   while i < array.length
-  new array.push(array[i].to_s)
+  new_array.push(array[i].to_s)
   end
 end
