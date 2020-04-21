@@ -6,7 +6,7 @@ def loop_message_n_times(message, number)
   number.times {puts message}
 end
   
-  i=0
+  i = 0
 def output_array(array)
   while i < array.length
   puts array[i]
